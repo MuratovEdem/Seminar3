@@ -63,6 +63,26 @@ git diff
 
 ##  Изображения
 
+**Чтобы добавить изображения, воспользуйтесь следующей командой**
+
+```
+![Альтернативный текст](ссылка на это фото)
+```
+Пример: 
+
+![Здесь был Вася и его фото](https://plus.unsplash.com/premium_photo-1674939149067-54c18a73efa2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2487&q=80)
+
+**Если свое фото - то указываем его название**
+
+![Фото лучшей девочки](Image.jpg)
+
+**Если мы хотим добавить изображение-ссылки, то нашу конструкцию нужно сделать такой:**
+
+```
+[![альтернативный текст](ссылка)](ссылка на другую картинку - наш перевертыш)
+```
+
+[![фото трап](https://images.unsplash.com/photo-1685446983943-81ffb3073581?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=930&q=80)](https://images.unsplash.com/photo-1685491107139-7d7f4f17b3eb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=688&q=80)
 
 312312312
 312312321123
